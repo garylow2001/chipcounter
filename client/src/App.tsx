@@ -2,7 +2,7 @@ import React from 'react'
 import { Routes, Route } from 'react-router-dom'
 import Home from './pages/Home'
 import JoinRoom from './pages/JoinRoom'
-import GameRoom from './pages/Gameroom'
+import GameRoom from './pages/GameRoom'
 
 const App = () => {
   return (
